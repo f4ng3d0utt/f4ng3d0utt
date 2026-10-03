@@ -4,9 +4,7 @@
 
 <div align="center">
   
-${\textsf{\color{#907c9c}"But you guys, with all your blessed talents,}}$ <br>
-${\textsf{\color{#907c9c} lost to a monkey like me who can't even use jujutsu.}}$ <br> 
-${\textsf{\color{#907c9c} Don't you dare forget that if you wanna live a long life."}}$ <br>
+${\textsf{\color{#907c9c}"Who do you think you are to give orders as you please?"}}$ <br>
 
 </div>
 
