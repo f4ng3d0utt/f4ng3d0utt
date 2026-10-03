@@ -4,14 +4,14 @@
 
 <div align="center">
   
-${\textsf{\color{#907c9c}"Who do you think you are to give orders as you please?"}}$ <br>
+${\textsf{\color{#d4c3de}"Who do you think you are to give orders as you please?"}}$ <br>
 
 </div>
 
 <div align="center">
 <img src="https://64.media.tumblr.com/ba9a7525f602d8412db0ae59e9c05c2c/43e796fd77866d74-bd/s2048x3072/e2c17b13af5319fcc135d5fc8158ea99ac642d4a.pnj" style="width: 30%; height: auto;"/> <p align="center"> ${\textsf{\color{#7e698a}Keith}}$ <br> He / Him⠀⸝⠀16 <br> Yume ${\textsf{\color{#907c9c}ENFP}}$.✦ ݁˖ <br> <img src="https://64.media.tumblr.com/c8d3247da24e483485fa38f10d06fcaa/58f7aab5fef60ba9-5e/s1280x1920/11716f7762b4aafb0127f938b126c875b601ee8e.pnj" style="width: 30%; height: auto;"/> <p align="center"> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&duration=1000&pause=2000&color=6e587a&vCenter=true&width=435&lines=%22An+invisible+man's+gonna+have+invisible+guts,+right?%2C...%22" align="center" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&duration=1000&pause=2000&color=453c4a&vCenter=true&width=435&lines=%22An+invisible+man's+gonna+have+invisible+guts,+right?%2C...%22" align="center" alt="Typing SVG" /></a>
 </div>
 
 </div>  
