@@ -4,7 +4,7 @@
 
 <div align="center">
   
-${\textsf{\color{#d4c3de}"Who do you think you are to give orders as you please?"}}$ <br>
+${\textsf{\color{#d4c3de}"Who the hell do you think you're ordering around, hag?"}}$ <br>
 
 </div>
 
